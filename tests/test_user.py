@@ -5,6 +5,7 @@ from src.main import app
 client = TestClient(app)
 
 
+
 # Существующие пользователи
 users = [
     {
